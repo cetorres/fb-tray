@@ -1,0 +1,25 @@
+{
+  "name": "fb-tray",
+  "version": "1.0.0",
+  "description": "ElectronJS application to show Facebook on the tray icon.",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "pack": "electron-builder --dir",
+    "dist": "electron-builder",
+    "postinstall": "electron-builder install-app-deps"
+  },
+  "author": "Carlos E. Torres <cetorres@cetorres.com>",
+  "license": "ISC",
+  "build": {
+    "appId": "com.cacira.fbtray",
+    "mac": {
+      "category": "Social"
+    }
+  },
+  "devDependencies": {
+    "electron": "^6.0.0",
+    "electron-builder": "^21.2.0"
+  },
+  "dependencies": {}
+}

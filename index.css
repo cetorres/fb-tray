@@ -1,0 +1,28 @@
+/* Variables */
+:root {
+  --background-color: #3b5998;
+  --window-border-radius: 6px;
+}
+
+.window {
+  background-color: var(--background-color);
+}
+
+.window, .toolbar-header {
+  border-top-left-radius: var(--window-border-radius);
+  border-top-right-radius: var(--window-border-radius);
+}
+
+.window-content {
+  background-color: var(--background-color);
+}
+
+#webview {
+  padding:5px;
+  min-height:1200px;
+}
+
+footer {
+  margin-top: 3px;
+  margin-bottom: 2px;
+}
