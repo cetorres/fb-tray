@@ -1,7 +1,7 @@
 {
   "name": "fb-tray",
   "version": "1.0.0",
-  "description": "ElectronJS application to show Facebook on the tray icon.",
+  "description": "Electron application to show Facebook on the tray icon.",
   "main": "main.js",
   "scripts": {
     "start": "electron .",
