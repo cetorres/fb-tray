@@ -1,0 +1,12 @@
+version: 1.0.1
+files:
+  - url: fb-tray-1.0.1-mac.zip
+    sha512: FaBGkYwEsjxkNt5ztMpNKUj9LCO+v3WVfU1sm8+JqzbMaDtVTFvT7deoq2qW3VBKdKHRi9QzJMTC+jl0x8FESw==
+    size: 77915558
+    blockMapSize: 82498
+  - url: fb-tray-1.0.1.dmg
+    sha512: vjdnQa6M7AmJQAlc7jjAI6ye7X75O/qNr/Vz+carAlWZuHyobDEmAcBFMEUTJ8xZ5/Wx1OZVSGn8S8S24wpGZg==
+    size: 80241792
+path: fb-tray-1.0.1-mac.zip
+sha512: FaBGkYwEsjxkNt5ztMpNKUj9LCO+v3WVfU1sm8+JqzbMaDtVTFvT7deoq2qW3VBKdKHRi9QzJMTC+jl0x8FESw==
+releaseDate: '2020-12-08T23:17:48.952Z'

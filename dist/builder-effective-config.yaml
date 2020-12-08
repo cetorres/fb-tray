@@ -1,0 +1,7 @@
+directories:
+  output: dist
+  buildResources: build
+appId: com.cacira.fbtray
+mac:
+  category: Social
+electronVersion: 11.0.4
